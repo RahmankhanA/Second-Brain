@@ -1,4 +1,4 @@
-# second_brain
+#Second Brain
 
 A new Flutter project.
 
